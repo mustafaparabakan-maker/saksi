@@ -1,0 +1,23 @@
+name: saksi
+description: "Saksı - Flutter ile geliştirilmiş mini bitki kataloğu uygulaması."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+# Yönerge gereği ekstra paket kullanılmamıştır; yalnızca Flutter SDK.
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/data/

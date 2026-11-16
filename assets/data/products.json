@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Paşa Kılıcı",
+      "latinName": "Sansevieria trifasciata",
+      "category": "İç Mekan",
+      "price": 289.90,
+      "image": "assets/images/pasa_kilici.png",
+      "description": "Dik ve kılıç gibi uzanan yapraklarıyla az ışıkta bile dayanıklı kalan bir klasik. Unutkan bitki sahipleri için ideal; haftalarca susuz kalsa da formunu korur.",
+      "care": { "light": "Az ışık", "water": "2-3 haftada 1", "difficulty": "Çok kolay" },
+      "petFriendly": false
+    },
+    {
+      "id": 2,
+      "name": "Deve Tabanı",
+      "latinName": "Monstera deliciosa",
+      "category": "İç Mekan",
+      "price": 549.90,
+      "image": "assets/images/deve_tabani.png",
+      "description": "Yarıklı, iri yapraklarıyla salonun yıldızı olmaya aday. Aydınlık ama doğrudan güneş almayan bir köşede hızla büyür, yeni yapraklarını açarken izlemesi keyiflidir.",
+      "care": { "light": "Aydınlık", "water": "Haftada 1", "difficulty": "Kolay" },
+      "petFriendly": false
+    },
+    {
+      "id": 3,
+      "name": "Kauçuk",
+      "latinName": "Ficus elastica",
+      "category": "İç Mekan",
+      "price": 459.90,
+      "image": "assets/images/kaucuk.png",
+      "description": "Parlak, koyu yeşil yaprakları ve bordo tomurcuklarıyla zarif bir duruş. Yerinin sık değiştirilmesini sevmez; ışıklı bir köşeye yerleştirip düzenli sulamak yeterlidir.",
+      "care": { "light": "Aydınlık", "water": "Haftada 1", "difficulty": "Orta" },
+      "petFriendly": false
+    },
+    {
+      "id": 4,
+      "name": "Zamioculcas",
+      "latinName": "Zamioculcas zamiifolia",
+      "category": "İç Mekan",
+      "price": 379.90,
+      "image": "assets/images/zamioculcas.png",
+      "description": "Parlak, mumsu yaprakları neredeyse yapay gibi görünür ama tamamen gerçektir. Ofisler ve pencereden uzak alanlar için en dayanıklı seçeneklerden biridir.",
+      "care": { "light": "Az ışık", "water": "2-3 haftada 1", "difficulty": "Çok kolay" },
+      "petFriendly": false
+    },
+    {
+      "id": 5,
+      "name": "Altın Top Kaktüs",
+      "latinName": "Echinocactus grusonii",
+      "category": "Sukulent",
+      "price": 149.90,
+      "image": "assets/images/ekinokaktus.png",
+      "description": "Altın sarısı dikenlerle kaplı yuvarlak gövdesi pencere önlerine sıcak bir hava katar. Bol güneşi sever, kışın neredeyse hiç su istemez.",
+      "care": { "light": "Bol güneş", "water": "Ayda 1", "difficulty": "Çok kolay" },
+      "petFriendly": false
+    },
+    {
+      "id": 6,
+      "name": "Eçeverya",
+      "latinName": "Echeveria elegans",
+      "category": "Sukulent",
+      "price": 119.90,
+      "image": "assets/images/eceverya.png",
+      "description": "Gül şeklinde dizilmiş tombul, pastel yapraklarıyla masaüstlerinin vazgeçilmezi. Toprağı tamamen kuruduktan sonra sulamak çürümeyi önler.",
+      "care": { "light": "Bol güneş", "water": "10 günde 1", "difficulty": "Kolay" },
+      "petFriendly": true
+    },
+    {
+      "id": 7,
+      "name": "Orkide",
+      "latinName": "Phalaenopsis",
+      "category": "Çiçekli",
+      "price": 649.90,
+      "image": "assets/images/orkide.png",
+      "description": "Kelebeği andıran çiçekleri aylarca açık kalabilir. Sulamayı saksıyı 10 dakika suya daldırarak yapmak ve doğrudan güneşten korumak en sağlıklısıdır.",
+      "care": { "light": "Dolaylı ışık", "water": "Haftada 1", "difficulty": "Orta" },
+      "petFriendly": true
+    },
+    {
+      "id": 8,
+      "name": "Barış Çiçeği",
+      "latinName": "Spathiphyllum wallisii",
+      "category": "Çiçekli",
+      "price": 329.90,
+      "image": "assets/images/baris_cicegi.png",
+      "description": "Beyaz, yelken gibi çiçekleri ve koyu yeşil yapraklarıyla sakin bir görünüm sunar. Susadığında yapraklarını hafifçe sarkıtarak haber verir.",
+      "care": { "light": "Yarı gölge", "water": "Haftada 2", "difficulty": "Kolay" },
+      "petFriendly": false
+    },
+    {
+      "id": 9,
+      "name": "Antoryum",
+      "latinName": "Anthurium andraeanum",
+      "category": "Çiçekli",
+      "price": 419.90,
+      "image": "assets/images/antoryum.png",
+      "description": "Parlak kırmızı, kalp biçimli çiçekleri yıl boyu renk verir. Nemli havayı sever; yapraklarına ara sıra su püskürtmek iyi gelir.",
+      "care": { "light": "Aydınlık", "water": "Haftada 1", "difficulty": "Orta" },
+      "petFriendly": false
+    },
+    {
+      "id": 10,
+      "name": "Salon Sarmaşığı",
+      "latinName": "Epipremnum aureum",
+      "category": "Sarmaşık",
+      "price": 199.90,
+      "image": "assets/images/salon_sarmasigi.png",
+      "description": "Asma saksıdan aşağı dökülen kalp yapraklı dallarıyla rafları ve köşeleri canlandırır. Hızlı büyür ve çeliklerle kolayca çoğaltılır.",
+      "care": { "light": "Yarı gölge", "water": "Haftada 1", "difficulty": "Çok kolay" },
+      "petFriendly": false
+    },
+    {
+      "id": 11,
+      "name": "Kurdele Çiçeği",
+      "latinName": "Chlorophytum comosum",
+      "category": "Sarmaşık",
+      "price": 179.90,
+      "image": "assets/images/kurdele_cicegi.png",
+      "description": "İnce, çizgili yapraklarıyla havai fişek gibi yayılır ve küçük yavru bitkiler verir. Evcil hayvanlar için güvenli kabul edilen bitkilerdendir.",
+      "care": { "light": "Aydınlık", "water": "Haftada 1", "difficulty": "Çok kolay" },
+      "petFriendly": true
+    },
+    {
+      "id": 12,
+      "name": "Kalp Sarmaşığı",
+      "latinName": "Philodendron hederaceum",
+      "category": "Sarmaşık",
+      "price": 239.90,
+      "image": "assets/images/kalp_sarmasigi.png",
+      "description": "Yosun çubuğuna sarılarak yukarı tırmanabilen ya da saksıdan sarkabilen esnek bir sarmaşık. Kalp şeklindeki yaprakları her ortama yakışır.",
+      "care": { "light": "Yarı gölge", "water": "Haftada 1", "difficulty": "Kolay" },
+      "petFriendly": false
+    }
+  ]
+}

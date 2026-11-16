@@ -1,0 +1,12 @@
+# Ekstra paket kullanılmadığı için flutter_lints yerine temel kurallar.
+analyzer:
+  errors:
+    # Flutter 3.47+ sürümlerinde material.dart, ayrı bir pakete (material_ui)
+    # taşındığı için "deprecated" uyarısı veriyor. Yönerge gereği ekstra paket
+    # kullanılmadığından material.dart bilinçli olarak kullanılmıştır.
+    deprecated_member_use: ignore
+
+linter:
+  rules:
+    - prefer_final_fields
+    - avoid_print
